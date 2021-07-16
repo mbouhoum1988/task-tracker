@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tadk-tracker/static/css/main.4e758486.chunk.css",
+    "main.js": "/tadk-tracker/static/js/main.c2de695f.chunk.js",
+    "main.js.map": "/tadk-tracker/static/js/main.c2de695f.chunk.js.map",
+    "runtime-main.js": "/tadk-tracker/static/js/runtime-main.e21d9057.js",
+    "runtime-main.js.map": "/tadk-tracker/static/js/runtime-main.e21d9057.js.map",
+    "static/js/2.a31682d0.chunk.js": "/tadk-tracker/static/js/2.a31682d0.chunk.js",
+    "static/js/2.a31682d0.chunk.js.map": "/tadk-tracker/static/js/2.a31682d0.chunk.js.map",
+    "static/js/3.7a835eb6.chunk.js": "/tadk-tracker/static/js/3.7a835eb6.chunk.js",
+    "static/js/3.7a835eb6.chunk.js.map": "/tadk-tracker/static/js/3.7a835eb6.chunk.js.map",
+    "index.html": "/tadk-tracker/index.html",
+    "static/css/main.4e758486.chunk.css.map": "/tadk-tracker/static/css/main.4e758486.chunk.css.map",
+    "static/js/2.a31682d0.chunk.js.LICENSE.txt": "/tadk-tracker/static/js/2.a31682d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e21d9057.js",
+    "static/js/2.a31682d0.chunk.js",
+    "static/css/main.4e758486.chunk.css",
+    "static/js/main.c2de695f.chunk.js"
+  ]
+}
